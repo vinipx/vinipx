@@ -1,4 +1,4 @@
-# Hi there, I'm Vinicius! 👋
+# Hi there, I'm vinipx! 👋
 
 ## 🚀 Test Architect Engineer
 
@@ -27,35 +27,61 @@ I specialize in building robust **test automation frameworks**, **developer prod
 
 ---
 
-### 🚀 Spotlight Project: WIXY Hub
-
-<div align="center">
-  <a href="https://github.com/vinipx/wixy">
-    <img src="https://raw.githubusercontent.com/vinipx/wixy/main/documentation/static/img/logo.svg" width="100" alt="WIXY Hub Logo" />
-  </a>
-  <br/>
-  <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
-  <p>
-    <strong>Enterprise WireMock Orchestrator & AI-Native Mock Management</strong>
-    <br/>
-    Control, monitor, and manage your entire fleet of WireMock engines (local & remote) from a single modern dashboard.
-    <br/>
-    Featuring <strong>Visual Stub Editor</strong>, <strong>Traffic Recording</strong>, and <strong>Model Context Protocol (MCP)</strong> support for AI Agents.
-  </p>
-</div>
-
----
-
 ### 🌟 Featured Projects
 
-Here are some of the key projects I've architected and maintain:
-
-| Project | Role | Description | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **[wixy](https://github.com/vinipx/wixy)** | **Creator** | 🚀 **Enterprise WireMock Orchestrator**. Control, monitor, and manage a fleet of WireMock engines (local & remote) from a single modern dashboard. Native MCP support for AI agents. | ![Java](https://img.shields.io/badge/Java-Spring_Boot-green) ![React](https://img.shields.io/badge/React-TS-blue) |
-| **[taflex](https://github.com/vinipx/taflex)** | **Architect** | 🏗️ **Enterprise Test Automation Framework**. A scalable, modular framework for robust UI and API testing in large-scale Java environments. | ![Java](https://img.shields.io/badge/Java-Selenium-orange) ![TestNG](https://img.shields.io/badge/TestNG-Gradle-blue) |
-| **[taflex-js](https://github.com/vinipx/taflex-js)** | **Architect** | ⚡ **Modern Web Testing Framework**. The JavaScript/TypeScript evolution of Taflex, optimized for speed and reliability in modern web applications. | ![TypeScript](https://img.shields.io/badge/TypeScript-Playwright-blue) |
-| **[QUANTAF](https://github.com/vinipx/QUANTAF)** | **Creator** | ⚛️ **Next-Gen Testing Utility**. Advanced testing library designed for high-performance execution and complex data analysis. | ![Python](https://img.shields.io/badge/Python-PyTest-yellow) |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/wixy">
+        <img src="https://raw.githubusercontent.com/vinipx/wixy/main/documentation/static/img/logo.svg" width="80" alt="WIXY Hub" />
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
+      <p><strong>Enterprise WireMock Orchestrator</strong></p>
+      <p>Control & monitor a fleet of WireMock engines (local & remote) from a modern dashboard. Features <strong>MCP support</strong> for AI agents.</p>
+      <img src="https://img.shields.io/badge/Java-Spring_Boot-green" alt="Java Spring Boot"/>
+      <img src="https://img.shields.io/badge/React-TS-blue" alt="React TS"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/taflex">
+        <span style="font-size: 80px;">🏗️</span>
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/taflex">Taflex</a></h3>
+      <p><strong>Enterprise Test Automation Framework</strong></p>
+      <p>A scalable, modular framework for robust UI and API testing in large-scale Java environments.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-Selenium-orange" alt="Java Selenium"/>
+      <img src="https://img.shields.io/badge/TestNG-Gradle-blue" alt="TestNG Gradle"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/taflex-js">
+        <span style="font-size: 80px;">⚡</span>
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/taflex-js">Taflex-JS</a></h3>
+      <p><strong>Modern Web Testing Framework</strong></p>
+      <p>The TypeScript evolution of Taflex. Optimized for speed, reliability, and modern web applications.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-Playwright-blue" alt="TypeScript Playwright"/>
+      <img src="https://img.shields.io/badge/Node.js-Fast-green" alt="Node.js"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/QUANTAF">
+        <span style="font-size: 80px;">⚛️</span>
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/QUANTAF">QUANTAF</a></h3>
+      <p><strong>Next-Gen Testing Utility</strong></p>
+      <p>Advanced testing library designed for high-performance execution and complex data analysis.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-PyTest-yellow" alt="Python PyTest"/>
+      <img src="https://img.shields.io/badge/Data-Analysis-blueviolet" alt="Data Analysis"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
