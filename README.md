@@ -27,6 +27,25 @@ I specialize in building robust **test automation frameworks**, **developer prod
 
 ---
 
+### 🚀 Spotlight Project: WIXY Hub
+
+<div align="center">
+  <a href="https://github.com/vinipx/wixy">
+    <img src="https://raw.githubusercontent.com/vinipx/wixy/main/documentation/static/img/logo.svg" width="100" alt="WIXY Hub Logo" />
+  </a>
+  <br/>
+  <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
+  <p>
+    <strong>Enterprise WireMock Orchestrator & AI-Native Mock Management</strong>
+    <br/>
+    Control, monitor, and manage your entire fleet of WireMock engines (local & remote) from a single modern dashboard.
+    <br/>
+    Featuring <strong>Visual Stub Editor</strong>, <strong>Traffic Recording</strong>, and <strong>Model Context Protocol (MCP)</strong> support for AI Agents.
+  </p>
+</div>
+
+---
+
 ### 🌟 Featured Projects
 
 Here are some of the key projects I've architected and maintain:
