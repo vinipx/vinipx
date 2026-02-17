@@ -6,30 +6,6 @@ I specialize in building robust **test automation frameworks**, **developer prod
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Testing & Automation**
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/-appium-%2341c4ff?style=for-the-badge&logo=appium&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/-webdriverio-%23ea5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Cucumber](https://img.shields.io/badge/-Cucumber-%2323D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![RestAssured](https://img.shields.io/badge/-RestAssured-%23007C89?style=for-the-badge&logo=postman&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-%23FF7F00?style=for-the-badge&logo=testng&logoColor=white)
-
-**Backend, AI & Infrastructure**
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/testcontainers-%23131D31.svg?style=for-the-badge&logo=testcontainers&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain4j-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
 ### 🌟 Featured Projects
 
 <table align="center">
