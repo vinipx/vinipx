@@ -44,6 +44,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <h3><a href="https://github.com/vinipx/taflex-js">Taflex-JS</a></h3>
       <p><strong>Modern Web Testing Framework</strong></p>
       <p>Node.js automation using <strong>Playwright</strong> & <strong>WebdriverIO</strong>. Features BDD, Contract Testing (Pact), and MCP support.</p>
+      <p>[https://github.com/vinipx](https://vinipx.github.io/taflex-js)"</p>
       <br/>
       <img src="https://img.shields.io/badge/JavaScript-Playwright-yellow" alt="JavaScript Playwright"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
