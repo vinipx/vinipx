@@ -18,6 +18,9 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
       <p><strong>Enterprise WireMock Orchestrator</strong></p>
       <p>Control & monitor a fleet of WireMock engines (local & remote). Features <strong>Visual Stub Editor</strong> & <strong>MCP</strong> for AI agents.</p>
+      <a href="https://vinipx.github.io/wixy/">
+         <p>see documentation</p>
+      </a>
       <br/>
       <img src="https://img.shields.io/badge/Java-Spring_Boot-green" alt="Java Spring Boot"/>
       <img src="https://img.shields.io/badge/React-TS-blue" alt="React TS"/>
@@ -30,6 +33,9 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <h3><a href="https://github.com/vinipx/taflex">Taflex</a></h3>
       <p><strong>Enterprise Automation Framework</strong></p>
       <p>Unified Java framework combining <strong>Playwright</strong>, <strong>Appium</strong>, and <strong>RestAssured</strong> with TestNG/Cucumber & Reporting.</p>
+      <a href="https://vinipx.github.io/taflex/">
+         <p>see documentation</p>
+      </a>
       <br/>
       <img src="https://img.shields.io/badge/Java-Playwright-orange" alt="Java Playwright"/>
       <img src="https://img.shields.io/badge/Appium-Mobile-blue" alt="Appium"/>
@@ -59,6 +65,9 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <h3><a href="https://github.com/vinipx/QUANTAF">QUANTAF</a></h3>
       <p><strong>Advanced Financial Testing</strong></p>
       <p>Java utility for complex systems: <strong>FIX Protocol</strong>, <strong>JMS/ActiveMQ</strong>, Math stats, and <strong>AI-driven</strong> testing (LangChain4j).</p>
+      <a href="https://vinipx.github.io/QUANTAF/">
+         <p>see documentation</p>
+      </a>
       <br/>
       <img src="https://img.shields.io/badge/Java-FIX_Protocol-yellow" alt="Java FIX"/>
       <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
