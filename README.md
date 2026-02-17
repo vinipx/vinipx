@@ -1,4 +1,4 @@
-# Hi there, I'm vinipx! 👋
+# Hi there, I'm Vinicius! 👋
 
 ## 🚀 Test Architect Engineer
 
@@ -11,18 +11,21 @@ I specialize in building robust **test automation frameworks**, **developer prod
 **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Testing & Automation**
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Appium](https://img.shields.io/badge/-appium-%2341c4ff?style=for-the-badge&logo=appium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/-webdriverio-%23ea5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-%2323D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![RestAssured](https://img.shields.io/badge/-RestAssured-%23007C89?style=for-the-badge&logo=postman&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-%23FF7F00?style=for-the-badge&logo=testng&logoColor=white)
 
-**Backend & Infrastructure**
+**Backend, AI & Infrastructure**
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/testcontainers-%23131D31.svg?style=for-the-badge&logo=testcontainers&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain4j-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
@@ -38,7 +41,8 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <br/>
       <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
       <p><strong>Enterprise WireMock Orchestrator</strong></p>
-      <p>Control & monitor a fleet of WireMock engines (local & remote) from a modern dashboard. Features <strong>MCP support</strong> for AI agents.</p>
+      <p>Control & monitor a fleet of WireMock engines (local & remote). Features <strong>Visual Stub Editor</strong> & <strong>MCP</strong> for AI agents.</p>
+      <br/>
       <img src="https://img.shields.io/badge/Java-Spring_Boot-green" alt="Java Spring Boot"/>
       <img src="https://img.shields.io/badge/React-TS-blue" alt="React TS"/>
     </td>
@@ -48,11 +52,11 @@ I specialize in building robust **test automation frameworks**, **developer prod
       </a>
       <br/>
       <h3><a href="https://github.com/vinipx/taflex">Taflex</a></h3>
-      <p><strong>Enterprise Test Automation Framework</strong></p>
-      <p>A scalable, modular framework for robust UI and API testing in large-scale Java environments.</p>
+      <p><strong>Enterprise Automation Framework</strong></p>
+      <p>Unified Java framework combining <strong>Playwright</strong>, <strong>Appium</strong>, and <strong>RestAssured</strong> with TestNG/Cucumber & Reporting.</p>
       <br/>
-      <img src="https://img.shields.io/badge/Java-Selenium-orange" alt="Java Selenium"/>
-      <img src="https://img.shields.io/badge/TestNG-Gradle-blue" alt="TestNG Gradle"/>
+      <img src="https://img.shields.io/badge/Java-Playwright-orange" alt="Java Playwright"/>
+      <img src="https://img.shields.io/badge/Appium-Mobile-blue" alt="Appium"/>
     </td>
   </tr>
   <tr>
@@ -63,10 +67,10 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <br/>
       <h3><a href="https://github.com/vinipx/taflex-js">Taflex-JS</a></h3>
       <p><strong>Modern Web Testing Framework</strong></p>
-      <p>The TypeScript evolution of Taflex. Optimized for speed, reliability, and modern web applications.</p>
+      <p>Node.js automation using <strong>Playwright</strong> & <strong>WebdriverIO</strong>. Features BDD, Contract Testing (Pact), and MCP support.</p>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-Playwright-blue" alt="TypeScript Playwright"/>
-      <img src="https://img.shields.io/badge/Node.js-Fast-green" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vinipx/QUANTAF">
@@ -74,11 +78,11 @@ I specialize in building robust **test automation frameworks**, **developer prod
       </a>
       <br/>
       <h3><a href="https://github.com/vinipx/QUANTAF">QUANTAF</a></h3>
-      <p><strong>Next-Gen Testing Utility</strong></p>
-      <p>Advanced testing library designed for high-performance execution and complex data analysis.</p>
+      <p><strong>Advanced Financial Testing</strong></p>
+      <p>Java utility for complex systems: <strong>FIX Protocol</strong>, <strong>JMS/ActiveMQ</strong>, Math stats, and <strong>AI-driven</strong> testing (LangChain4j).</p>
       <br/>
-      <img src="https://img.shields.io/badge/Python-PyTest-yellow" alt="Python PyTest"/>
-      <img src="https://img.shields.io/badge/Data-Analysis-blueviolet" alt="Data Analysis"/>
+      <img src="https://img.shields.io/badge/Java-FIX_Protocol-yellow" alt="Java FIX"/>
+      <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
     </td>
   </tr>
 </table>
@@ -89,7 +93,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
 
 <div align="center">
   <a href="https://github.com/vinipx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinipx&show_icons=true&theme=radical&count_private=true" alt="Vinicius' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinipx&show_icons=true&theme=radical" alt="Vinicius' GitHub Stats" />
   </a>
   <a href="https://github.com/vinipx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipx&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
