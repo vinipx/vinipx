@@ -69,10 +69,11 @@ I specialize in building robust **test automation frameworks**, **developer prod
 
 <div align="center">
   <a href="https://github.com/vinipx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinipx&show_icons=true&theme=radical" alt="Vinicius' GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinipx&theme=radical" alt="Vinicius' GitHub Streak" />
   </a>
+  <br/>
   <a href="https://github.com/vinipx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipx&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinipx&theme=radical" alt="Vinicius' GitHub Stats" />
   </a>
 </div>
 
@@ -81,10 +82,10 @@ I specialize in building robust **test automation frameworks**, **developer prod
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/vinipxf/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vinipxf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
