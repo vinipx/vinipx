@@ -48,7 +48,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vinipx/taflex">
-        <span style="font-size: 80px;">🏗️</span>
+        <img src="https://raw.githubusercontent.com/vinipx/taflex/main/documentation/static/img/logo.svg" width="80" alt="Taflex" />
       </a>
       <br/>
       <h3><a href="https://github.com/vinipx/taflex">Taflex</a></h3>
@@ -62,19 +62,19 @@ I specialize in building robust **test automation frameworks**, **developer prod
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/vinipx/taflex-js">
-        <span style="font-size: 80px;">⚡</span>
+        <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
       </a>
       <br/>
       <h3><a href="https://github.com/vinipx/taflex-js">Taflex-JS</a></h3>
       <p><strong>Modern Web Testing Framework</strong></p>
       <p>Node.js automation using <strong>Playwright</strong> & <strong>WebdriverIO</strong>. Features BDD, Contract Testing (Pact), and MCP support.</p>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-Playwright-blue" alt="TypeScript Playwright"/>
+      <img src="https://img.shields.io/badge/JavaScript-Playwright-yellow" alt="JavaScript Playwright"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vinipx/QUANTAF">
-        <span style="font-size: 80px;">⚛️</span>
+        <img src="https://raw.githubusercontent.com/vinipx/QUANTAF/main/documentation/static/img/logo.svg" width="80" alt="QUANTAF" />
       </a>
       <br/>
       <h3><a href="https://github.com/vinipx/QUANTAF">QUANTAF</a></h3>
