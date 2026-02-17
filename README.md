@@ -1,4 +1,4 @@
-# Hi there, I'm Vinicius! 👋
+# Hi there, I'm vinipx! 👋
 
 ## 🚀 Test Architect Engineer
 
