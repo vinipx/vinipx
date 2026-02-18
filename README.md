@@ -82,14 +82,15 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <h3><a href="https://github.com/vinipx/taflex-ts">AUTOPOM</a></h3>
       <p><strong>AI spider for web locators and POM generation</strong></p>
       <p>AI spider for web discovery and multi-language Playwright Page Objects</p>
-      <a href="https://vinipx.github.io/taflex-ts/">
+      <a href="https://vinipx.github.io/AUTOPOM/">
          <p>see documentation</p>
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-Playwright-yellow" alt="TypeScript Playwright"/>
+      <img src="https://img.shields.io/badge/Python-green" alt="Python"/>
+      <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
-    <!-- <td align="center" width="50%">
+    <td align="center" width="50%">
       <a href="https://github.com/vinipx/QUANTAF">
         <img src="https://raw.githubusercontent.com/vinipx/QUANTAF/main/documentation/static/img/logo.svg" width="80" alt="QUANTAF" />
       </a>
@@ -103,7 +104,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <br/>
       <img src="https://img.shields.io/badge/Java-FIX_Protocol-yellow" alt="Java FIX"/>
       <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
-    </td> -->
+    </td>
   </tr>
 </table>
 
