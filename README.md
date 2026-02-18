@@ -47,7 +47,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
         <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
       </a>
       <br/>
-      <h3><a href="https://github.com/vinipx/taflex-js">Taflex-JS</a></h3>
+      <h3><a href="https://github.com/vinipx/taflex-js">TAFLEX-JS</a></h3>
       <p><strong>Modern Web Testing Framework</strong></p>
       <p>Node.js automation using <strong>Playwright</strong> & <strong>WebdriverIO</strong>. Features BDD, Contract Testing (Pact), and MCP support.</p>
       <a href="https://vinipx.github.io/taflex-js/">
@@ -55,6 +55,21 @@ I specialize in building robust **test automation frameworks**, **developer prod
       </a>
       <br/>
       <img src="https://img.shields.io/badge/JavaScript-Playwright-yellow" alt="JavaScript Playwright"/>
+      <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/taflex-js">
+        <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/taflex-ts">TAFLEX-TS</a></h3>
+      <p><strong>Modern Web Testing Framework</strong></p>
+      <p>Typescript automation using <strong>Playwright</strong> & <strong>WebdriverIO</strong>. Features BDD, Contract Testing (Pact), and MCP support.</p>
+      <a href="https://vinipx.github.io/taflex-ts/">
+         <p>see documentation</p>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-Playwright-yellow" alt="TypeScript Playwright"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
     <td align="center" width="50%">
