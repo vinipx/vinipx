@@ -79,7 +79,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
         <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="AUTOPOM" />
       </a>
       <br/>
-      <h3><a href="https://github.com/vinipx/taflex-ts">AUTOPOM</a></h3>
+      <h3><a href="https://github.com/vinipx/AUTOPOM">AUTOPOM</a></h3>
       <p><strong>AI spider for web locators and POM generation</strong></p>
       <p>AI spider for web discovery and multi-language Playwright Page Objects</p>
       <a href="https://vinipx.github.io/AUTOPOM/">
