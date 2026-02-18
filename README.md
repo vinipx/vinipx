@@ -30,7 +30,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
         <img src="https://raw.githubusercontent.com/vinipx/taflex/main/documentation/static/img/logo.svg" width="80" alt="Taflex" />
       </a>
       <br/>
-      <h3><a href="https://github.com/vinipx/taflex">Taflex</a></h3>
+      <h3><a href="https://github.com/vinipx/taflex">TAFLEX</a></h3>
       <p><strong>Enterprise Automation Framework</strong></p>
       <p>Unified Java framework combining <strong>Playwright</strong>, <strong>Appium</strong>, and <strong>RestAssured</strong> with TestNG/Cucumber & Reporting.</p>
       <a href="https://vinipx.github.io/taflex/">
