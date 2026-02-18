@@ -72,7 +72,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <img src="https://img.shields.io/badge/TypeScript-Playwright-yellow" alt="TypeScript Playwright"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
-    <td align="center" width="50%">
+    <!-- <td align="center" width="50%">
       <a href="https://github.com/vinipx/QUANTAF">
         <img src="https://raw.githubusercontent.com/vinipx/QUANTAF/main/documentation/static/img/logo.svg" width="80" alt="QUANTAF" />
       </a>
@@ -86,7 +86,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <br/>
       <img src="https://img.shields.io/badge/Java-FIX_Protocol-yellow" alt="Java FIX"/>
       <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
-    </td>
+    </td> -->
   </tr>
 </table>
 
