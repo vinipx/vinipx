@@ -102,7 +102,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
          <p>see documentation</p>
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/Java-FIX_Protocol-yellow" alt="Java FIX"/>
+      <img src="https://img.shields.io/badge/Java-FIX_Protocol-green" alt="Java FIX"/>
       <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
     </td>
   </tr>
