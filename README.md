@@ -11,21 +11,6 @@ I specialize in building robust **test automation frameworks**, **developer prod
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/vinipx/wixy">
-        <img src="https://raw.githubusercontent.com/vinipx/wixy/main/documentation/static/img/logo.svg" width="80" alt="WIXY Hub" />
-      </a>
-      <br/>
-      <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
-      <p><strong>Enterprise WireMock Orchestrator</strong></p>
-      <p>Control & monitor a fleet of WireMock engines (local & remote). Features <strong>Visual Stub Editor</strong> & <strong>MCP</strong> for AI agents.</p>
-      <a href="https://vinipx.github.io/wixy/">
-         <p>see documentation</p>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Java-Spring_Boot-green" alt="Java Spring Boot"/>
-      <img src="https://img.shields.io/badge/React-TS-blue" alt="React TS"/>
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/vinipx/taflex">
         <img src="https://raw.githubusercontent.com/vinipx/taflex/main/documentation/static/img/logo.svg" width="80" alt="Taflex" />
       </a>
@@ -39,6 +24,21 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <br/>
       <img src="https://img.shields.io/badge/Java-Playwright-orange" alt="Java Playwright"/>
       <img src="https://img.shields.io/badge/Appium-Mobile-blue" alt="Appium"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/taflex-ts">
+        <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/TAFLEX-PY">TAFLEX-PY</a></h3>
+      <p><strong>Modern Web Testing Framework</strong></p>
+      <p>Python automation using <strong>Playwright</strong> & <strong>Appium</strong>. Features API, BDD, Contract Testing (Pact), and MCP support.</p>
+      <a href="https://vinipx.github.io/TAFLEX-PY/">
+         <p>see documentation</p>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-Playwright-yellow" alt="Python Playwright"/>
+      <img src="https://img.shields.io/badge/Python-Appium-green" alt="Python Appium"/>
     </td>
   </tr>
   <tr>
@@ -75,23 +75,6 @@ I specialize in building robust **test automation frameworks**, **developer prod
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/vinipx/taflex-ts">
-        <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
-      </a>
-      <br/>
-      <h3><a href="https://github.com/vinipx/TAFLEX-PY">TAFLEX-PY</a></h3>
-      <p><strong>Modern Web Testing Framework</strong></p>
-      <p>Python automation using <strong>Playwright</strong> & <strong>Appium</strong>. Features API, BDD, Contract Testing (Pact), and MCP support.</p>
-      <a href="https://vinipx.github.io/TAFLEX-PY/">
-         <p>see documentation</p>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-Playwright-yellow" alt="Python Playwright"/>
-      <img src="https://img.shields.io/badge/Python-Appium-green" alt="Python Appium"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <a href="https://github.com/vinipx/AUTOPOM">
         <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="AUTOPOM" />
       </a>
@@ -107,6 +90,23 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <img src="https://img.shields.io/badge/AI-LangChain4j-blueviolet" alt="AI LangChain4j"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/wixy">
+        <img src="https://raw.githubusercontent.com/vinipx/wixy/main/documentation/static/img/logo.svg" width="80" alt="WIXY Hub" />
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/wixy">WIXY Hub</a></h3>
+      <p><strong>Enterprise WireMock Orchestrator</strong></p>
+      <p>Control & monitor a fleet of WireMock engines (local & remote). Features <strong>Visual Stub Editor</strong> & <strong>MCP</strong> for AI agents.</p>
+      <a href="https://vinipx.github.io/wixy/">
+         <p>see documentation</p>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-Spring_Boot-green" alt="Java Spring Boot"/>
+      <img src="https://img.shields.io/badge/React-TS-blue" alt="React TS"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/vinipx/QUANTAF">
         <img src="https://raw.githubusercontent.com/vinipx/QUANTAF/main/documentation/static/img/logo.svg" width="80" alt="QUANTAF" />
