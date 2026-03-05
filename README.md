@@ -58,7 +58,7 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/vinipx/taflex-js">
+      <a href="https://github.com/vinipx/taflex-ts">
         <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
       </a>
       <br/>
@@ -71,6 +71,23 @@ I specialize in building robust **test automation frameworks**, **developer prod
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-Playwright-yellow" alt="TypeScript Playwright"/>
       <img src="https://img.shields.io/badge/Vitest-Pact-green" alt="Vitest Pact"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/vinipx/taflex-ts">
+        <img src="https://raw.githubusercontent.com/vinipx/taflex-js/main/docs/static/img/logo.svg" width="80" alt="Taflex-JS" />
+      </a>
+      <br/>
+      <h3><a href="https://github.com/vinipx/TAFLEX-PY">TAFLEX-PY</a></h3>
+      <p><strong>Modern Web Testing Framework</strong></p>
+      <p>Python automation using <strong>Playwright</strong> & <strong>Appium</strong>. Features API, BDD, Contract Testing (Pact), and MCP support.</p>
+      <a href="https://vinipx.github.io/TAFLEX-PY/">
+         <p>see documentation</p>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-Playwright-yellow" alt="Python Playwright"/>
+      <img src="https://img.shields.io/badge/Python-Appium-green" alt="Python Appium"/>
     </td>
   </tr>
   <tr>
