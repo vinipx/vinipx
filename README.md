@@ -71,8 +71,8 @@ Community study resource for the CCA Foundations certification — 170+ practice
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinipx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=4ADE80&title_color=FACC15&text_color=c9d1d9&ring_color=4ADE80" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipx&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=FACC15" height="170" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinipx&theme=github_dark" height="170" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinipx&theme=github_dark" height="170" alt="Top Languages" />
 
 <br>
 
