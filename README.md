@@ -10,8 +10,6 @@
 
 </div>
 
-Source for my personal portfolio site, built with React 18, TypeScript, Vite, and Tailwind CSS v4. Below is a curated list of my open-source projects.
-
 ---
 
 ## Featured
