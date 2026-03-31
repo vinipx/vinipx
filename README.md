@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vinicius Fagundes
+# vinipx
 
 **QE Architect · Developer Productivity · AI Innovation**
 
