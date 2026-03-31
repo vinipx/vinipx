@@ -1,6 +1,6 @@
 <div align="center">
 
-# vinipx
+# VINIPX
 
 **QE Architect · Developer Productivity · AI Innovation**
 
